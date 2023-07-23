@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 flask = "*"
+nltk = "==3.2.4"
+unidecode = "*"
 
 [dev-packages]
 

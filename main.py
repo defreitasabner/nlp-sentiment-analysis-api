@@ -1,4 +1,7 @@
 from flask import Flask
+import nltk
+
+nltk.download('all')
 
 app = Flask(__name__)
 
