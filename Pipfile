@@ -7,6 +7,7 @@ name = "pypi"
 flask = "*"
 nltk = "==3.2.4"
 unidecode = "*"
+scikit-learn = "==1.2.2"
 
 [dev-packages]
 
